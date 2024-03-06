@@ -1,0 +1,17 @@
+.btnGrp{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.btnGrp button{
+    width: 40%;
+    border-radius: 1rem;
+    /* color: aqua;  */
+}
+
+.startBtn{
+    width: 100%;
+    padding: 0 1rem 0 1rem;
+}
